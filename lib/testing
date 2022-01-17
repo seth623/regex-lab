@@ -1,0 +1,5 @@
+require_relative './regex_lab.rb'
+
+phone_number = "555-555-5555"
+
+valid_phone_number?(phone_number)
